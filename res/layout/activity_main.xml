@@ -1,3 +1,5 @@
+<!-- Autor: Eduardo Luiz Arthur Marques - Matricula: 12296045 -->
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
